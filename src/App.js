@@ -69,7 +69,7 @@ function Portfolio({index}) {
                                 '<DON’T CREATIVE>는 간단한 비행슈팅 게임입니다.', 
                                 '<LUCID>는 꿈을 주제로한 플랫포머 게임입니다.', 
                                 '<Whale Wave>는 물고기를 먹어가며, 고래를 성장시키는 게임입니다.'];
-  const portfolioLink = ['https://github.com/DDongYeop/YOUTUBE/blob/main/CodingApple_React2022/blog/src/App.css', 
+  const portfolioLink = ['https://ddongyeop.notion.site/Hyper-Drift-1188d7baccb980b69c83ffd7c4b4f806?pvs=4', 
                          'https://ddongyeop.notion.site/Smasher-1188d7baccb98081a49ae349cb7be363?pvs=4',
                          'https://ddongyeop.notion.site/BEAST-2-0-1188d7baccb9800a9162f5693a63e108?pvs=4',
                          'https://ddongyeop.notion.site/BEAST-1-0-1188d7baccb98074b2a6eef7e36e9d9d?pvs=4',
