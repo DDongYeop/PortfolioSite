@@ -13,6 +13,14 @@
   }
 }
 
+.title {
+  display: flex;
+  background: wheat;
+  width: 100%;
+  color: black;
+  padding-left: 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
