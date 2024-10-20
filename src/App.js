@@ -43,7 +43,7 @@ function App() {
 
 function Portfolio({index}) {
   //차후 스크립트 따로 만들어서 뺴기 
-  const portfolioName = ['Hyper Drift', 'Smasher', 'BEAST 2.0', 'BEAST 1.0', 'Wind Rider', 'VeryNiceShot', '티니핑으로 알아보는 성격유형 테스트', '포트폴리오 웹사이트', 'TARGET', 'Kochi Rush', '버거리아', 'Protegg', 'Rainbow', '경기게임마이스터고등학교 입학 프로그램', 'Aim Factory', 'Flying Bee', 'Demefence', '명지반점', '가온누리', 'Knife Runner', 'Sqactory', 'Train Dream', 'DON’T CREATIVE', 'LUCID', 'Whale Wave'];
+  const portfolioName = ['Hyper Drift', 'Smasher', 'BEAST 2.0', 'BEAST 1.0', 'Wind Rider', 'VeryNiceShot', '티니핑으로 알아보는 성격유형 테스트', '포트폴리오 사이트', 'TARGET', 'Kochi Rush', '버거리아', 'Protegg', 'Rainbow', '경기게임마이스터고등학교 입학 프로그램', 'Aim Factory', 'Flying Bee', 'Demefence', '명지반점', '가온누리', 'Knife Runner', 'Sqactory', 'Train Dream', 'DON’T CREATIVE', 'LUCID', 'Whale Wave'];
   const portfolioDescription = ['<HyperDrift>는 Drift를 적절하게 사용하여 더욱 멀리 나아가는 캐주얼, 레이싱 게임입니다', 
                                 '<Smasher>는 AI와 배트민턴 경기를 하는 스포츠 게임입니다', 
                                 '<BEAST 2.0>는 몬스터로부터 토템을 지키는 게임입니다.', 
@@ -51,7 +51,7 @@ function Portfolio({index}) {
                                 '<Wind Rider>는 사이버 펑크풍의 도시에서 쾌감 있는 액션과 짜릿한 속도로 달릴 수 있는 게임입니다.', 
                                 '<VeryNiceShot>은 한정된 횟수 안에 홀에 공을 넣는 간단한 게임입니다.', 
                                 '<티니핑으로 알아보는 성격유형 테스트>은 MBTI을 기반으로 알아보는 간단한 테스트 웹사이트입니다.', 
-                                '', 
+                                '<포트폴리오 사이트>는 저의 포트폴리오를 모아둔 웹사이트입니다.', 
                                 '<TARGET>은 칼을 공중에 띄우고 던져 공격하는 형식의 하이퍼 캐주얼 게임입니다.', 
                                 '<KochiRush>는 탕후루 유행에 맞춰 개발한 하이퍼 캐주얼 게임입니다.', 
                                 '<버거리아>는 휴대폰 잠금화면 중 패턴에서 영감을 받아 제작한 간단한 하이퍼 캐주얼 게임입니다.', 
@@ -76,7 +76,7 @@ function Portfolio({index}) {
                          'https://ddongyeop.notion.site/Wind-Rider-1188d7baccb980b7b484d99dff335c04?pvs=4',
                          'https://ddongyeop.notion.site/VeryNiceShot-1188d7baccb98022b4b2db01f41e7b1a?pvs=4',
                          'https://ddongyeop.notion.site/1228d7baccb9808f9d8ec44cd722f6d9?pvs=4',
-                         '',
+                         'https://ddongyeop.notion.site/1258d7baccb980bfbf9bc291f0e77701?pvs=4',
                          'https://ddongyeop.notion.site/TARGET-1188d7baccb980f1b159f17eb2fb94ee?pvs=4',
                          'https://ddongyeop.notion.site/Kochi-Rush-1188d7baccb980719ba6ea6c75cb11ef?pvs=4',
                          'https://ddongyeop.notion.site/1188d7baccb9801b8decc20f60f7522b?pvs=4',
